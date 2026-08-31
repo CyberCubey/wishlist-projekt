@@ -2,7 +2,7 @@
 const model = {
   wishlist: [
 
-    
+
   ],
   editIndex: null
 };
