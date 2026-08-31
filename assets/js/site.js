@@ -2,6 +2,7 @@
 const model = {
   wishlist: [
 
+    
   ],
   editIndex: null
 };
@@ -50,7 +51,7 @@ const view = {
 const controller = {
   init() {
     view.render();
-    
+
 
     view.elements.input.setAttribute("autocomplete", "off");
     view.elements.input.setAttribute("autocorrect", "off");
